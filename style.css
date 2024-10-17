@@ -1,0 +1,30 @@
+#tutorial{
+    margin-top: 10px;
+    padding-top: 7px;
+    height: 42px;
+}
+#react-to{
+    font-weight: 600;
+    font-size: 42px;
+}
+nav{
+    margin-bottom: 10px;
+}
+header{
+    margin-bottom: 10px;
+}
+aside{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+#dezute{
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    padding-top: 9px;
+
+}
+#article--tekstas-pasirinkimas{
+    padding-left: 10px;
+}
